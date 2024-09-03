@@ -17,7 +17,7 @@ One is advised to read the documentation in the order given above to understand 
 
 # Credits
 
-This project could have been possible without the invaluable contribution from my teammates (listed in alphabetic order of first names)
+This project could not have been possible without the invaluable contribution from my teammates (listed in alphabetic order of first names)
 
 - [Abhinav Kumar](https://github.com/Abhinav1-Kumar)
 - [Akshit Sharma](https://github.com/akshit-iitg)
